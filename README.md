@@ -31,8 +31,10 @@
 <li><a href="https://www.linkedin.com/learning/paths/career-essentials-in-software-development?trk=article-ssr-frontend-pulse_little-text-block">Career Essentials in Sustainable Tech by Microsoft and LinkedIn</a></li>
 <li><a href="https://www.linkedin.com/learning/paths/career-essentials-in-administration?trk=article-ssr-frontend-pulse_little-text-block">Earn a Career Essentials in Cybersecurity Professional Certificate</a></li>
 <li><a href="https://training.marketing.linkedin.com/fundamentals-exam">LinkedIn Marketing Solutions Fundamentals Certification</a></li>
+<li><a href="https://training.marketing.linkedin.com/marketing-strategy-exam">LinkedIn Marketing Strategy Certification</a></li>
+<li><a href="https://training.marketing.linkedin.com/content-and-creative-design-exam">Content and Creative Design</a></li>
 </ul>
-</ul>
+ 
  
 # Free Certifications
 
