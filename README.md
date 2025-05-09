@@ -5,6 +5,8 @@
  ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-elearning-green)
+![](https://img.shields.io/github/stars/mscbuild)
+
 
  <p>Big News as Microsoft & LinkedIn jointly launched free Professional Certifications in Project Management, Business, Software Development, Data Analyst etc.
  To earn a certificate for an individual course, watch all the videos and pass the quizzes. In some courses, you’ll need to take an exam. Once you’re done, go to the “Related to this course” section below the video (on desktop) and click on “Show all”.
