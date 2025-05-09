@@ -1,4 +1,5 @@
 # Free LinkedIn Learning Professional Certifications & Learning Path
+ ![](https://cdn.uconnectlabs.com/wp-content/uploads/sites/305/2025/03/LinkedIn-Learning-Banner-1-1024x576.png)
   
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
