@@ -1012,6 +1012,123 @@
 </tbody>
 </table></markdown-accessiblity-table>
 
+<p align="center" dir="auto"><a href="#table-of-contents">(back to top)</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Security</h2><a id="user-content-security" class="anchor" aria-label="Permalink: Security" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<markdown-accessiblity-table><table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>Description</th>
+<th>Link</th>
+<th>Expiration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cisco Certificate in Ethical Hacking</td>
+<td>Ethical Hacker</td>
+<td><a href="https://www.netacad.com/courses/ethical-hacker?courseLang=en-US" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Cisco U</td>
+<td>Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free</td>
+<td><a href="https://u.cisco.com/path/32" rel="nofollow">Link</a></td>
+<td>16-Nov-2023</td>
+</tr>
+<tr>
+<td>ISC²</td>
+<td>Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312024</td>
+<td><a href="https://www.isc2.org/landing/1mcc" rel="nofollow">Link</a></td>
+<td>31-Dec-2024</td>
+</tr>
+<tr>
+<td>Palo Alto Networks</td>
+<td>Free certification exam coupon code upon completion of certification prep training during the event.</td>
+<td><a href="https://ignite.paloaltonetworks.com/" rel="nofollow">Link</a></td>
+<td>18-Nov-2020</td>
+</tr>
+<tr>
+<td>Fortinet</td>
+<td>Free Network Security training courses &amp; certifications by Fortinet / NSE Institute.</td>
+<td><a href="https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>The Academic Council Of uLektz</td>
+<td>Free Cyber Security training and certification.</td>
+<td><a href="https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>APMG International</td>
+<td>Free Certified Cyber Professional (CCP) Specialism Pilot certification for <strong>eligible individuals</strong> (see link for info).</td>
+<td><a href="https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>Cisco Networking Academy</td>
+<td>Free Introduction to Cybersecurity course with Networking Academy badge for completing this course.</td>
+<td><a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>SkillFront</td>
+<td>Free ISO/IEC 27001 Information Security Associate™</td>
+<td><a href="https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>AttackIQ</td>
+<td>Foundations of Purple Teaming</td>
+<td><a href="https://www.academy.attackiq.com/courses/foundations-of-purple-teaming" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>AttackIQ</td>
+<td>Foundations of Breach &amp; Attack Simulation</td>
+<td><a href="https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>AttackIQ</td>
+<td>Foundations of Operationalizing MITRE ATT&amp;CK v13</td>
+<td><a href="https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Cisco Networking Academy</td>
+<td>Introduction to Cybersecurity</td>
+<td><a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Cisco Networking Academy</td>
+<td>Cybersecurity Essentials</td>
+<td><a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Google Cloud Skills Boost</td>
+<td>Security &amp; Identity Fundamentals</td>
+<td><a href="https://www.cloudskillsboost.google/course_templates/770" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Open Source Security Foundation</td>
+<td>Developing Secure Software (LFD121)</td>
+<td><a href="https://training.linuxfoundation.org/training/developing-secure-software-lfd121/" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>IBM Training</td>
+<td>IBM QRadar SIEM Foundation</td>
+<td><a href="https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
 # Platforms offering free courses and certificates:
 - ## edX:
 Offers a vast selection of free online courses from universities worldwide, with the option to earn verified certificates for a fee upon completion. 
