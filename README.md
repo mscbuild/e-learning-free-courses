@@ -1242,7 +1242,10 @@ HP LIFE offers free courses on soft skills, such as business management and AI f
 > Online learning requires a high degree of self-motivation and organization. Without the structure of a physical classroom, it can be easy to fall behind or lose focus.
 
 > [!IMPORTANT]
-> Technical issues can disrupt the learning process, especially if students are not tech-savvy or lack reliable internet access. 
+> Technical issues can disrupt the learning process, especially if students are not tech-savvy or lack reliable internet access.
+
+> [!TIP]
+> Some online courses may be scams or offer misleading information, so it's essential to verify the legitimacy of the course and platform. 
  
  <a href="https://github.com/mscbuild"><img src="https://camo.githubusercontent.com/e9f3798d5901d27fe2097e37c8e91edb808b38b236dbebd836638c12b836ed7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566965772d4d795f50726f66696c652d677265656e3f6c6f676f3d476974487562" alt="View My Profile" data-canonical-src="https://img.shields.io/badge/View-My_Profile-green?logo=GitHub" style="max-width: 100%;"></a>
  
