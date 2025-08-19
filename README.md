@@ -1128,6 +1128,86 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+<p align="center" dir="auto"><a href="#table-of-contents">(back to top)</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Databases</h2><a id="user-content-databases" class="anchor" aria-label="Permalink: Databases" href="#databases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<markdown-accessiblity-table><table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>Description</th>
+<th>Link</th>
+<th>Expiration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Exasol</td>
+<td>Free Exasol training courses and certifications (€150 value each).</td>
+<td><a href="https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification" rel="nofollow">Link</a></td>
+<td>30-Jun-2020</td>
+</tr>
+<tr>
+<td>Mongodb</td>
+<td>12 free MongoDB courses with proof of completion.</td>
+<td><a href="https://university.mongodb.com/courses/catalog" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>CockcroachLab University</td>
+<td>Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB</td>
+<td><a href="https://university.cockroachlabs.com/course/getting-started-with-cockroachdb" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>CockcroachLab University</td>
+<td>Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB</td>
+<td><a href="https://university.cockroachlabs.com/course/cockroachdb-for-python-developers" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>Liquibase</td>
+<td>Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world.</td>
+<td><a href="https://learn.liquibase.com/index" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>Redis</td>
+<td>Redis Certified Developer is our professional certification program for software developers who regularly work with Redis.</td>
+<td><a href="https://university.redis.com/certification/" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>Databricks</td>
+<td>Free Training: Databricks Lakehouse Fundamentals.</td>
+<td><a href="https://www.databricks.com/learn/training/lakehouse-fundamentals" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>SQL</td>
+<td>Free SQL Course with Certificate</td>
+<td><a href="https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup" rel="nofollow">Link</a></td>
+<td>90 days of access</td>
+</tr>
+<tr>
+<td>Neo4j Graph Academy</td>
+<td>Free Exam Certificates and Proof of Completion Course Certificates</td>
+<td><a href="https://graphacademy.neo4j.com" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>ArangoDB</td>
+<td>ArangoDB Certified Professional</td>
+<td><a href="https://www.arangodb.com/learn/certification/" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>CrateDB</td>
+<td>CrateDB Academy offers free online courses and certification for our open source multi-model database.</td>
+<td><a href="https://learn.cratedb.com" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
 
 # Platforms offering free courses and certificates:
 - ## edX:
