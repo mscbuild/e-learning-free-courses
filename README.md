@@ -1011,6 +1011,35 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+
+Platforms offering free courses and certificates:
+edX:
+Offers a vast selection of free online courses from universities worldwide, with the option to earn verified certificates for a fee upon completion. 
+Coursera:
+Provides free courses and specializations from top universities and institutions, with options to purchase certificates for a fee. 
+Class Central:
+A search engine for free online courses, including those with certificates. 
+atingi:
+Focuses on free digital and professional skills courses, with a strong emphasis on emerging markets. 
+Alison:
+Provides free online courses and certificates across various fields. 
+Simplilearn:
+Offers free introductory courses and learning paths, some with certificates. 
+eLearning College:
+Provides free online courses with the option to earn certificates upon completion (for a fee). 
+Examples of free courses with certificates:
+AI and Machine Learning:
+DeepLearning.AI offers free courses on generative AI, including "Generative AI for Everyone". 
+Google Analytics:
+Google Analytics Academy offers free courses on Google's analytics tools. 
+IT and Technology:
+Platforms like Simplilearn and atingi offer free courses in IT and technology, some with certificates. 
+Business and Management:
+eLearning College, edX, and Alison offer free courses in business and management, with certificate options. 
+Data Science:
+Great Learning offers free AI courses, including those on deep learning, with certificates. 
+Soft Skills:
+HP LIFE offers free courses on soft skills, such as business management and AI for business professionals. 
  
  <a href="https://github.com/mscbuild"><img src="https://camo.githubusercontent.com/e9f3798d5901d27fe2097e37c8e91edb808b38b236dbebd836638c12b836ed7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566965772d4d795f50726f66696c652d677265656e3f6c6f676f3d476974487562" alt="View My Profile" data-canonical-src="https://img.shields.io/badge/View-My_Profile-green?logo=GitHub" style="max-width: 100%;"></a>
  
