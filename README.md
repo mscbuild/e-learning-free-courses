@@ -1009,6 +1009,12 @@
 <td><a href="https://learninglab.about.ads.microsoft.com/training/training-certification/" rel="nofollow">Link</a></td>
 <td>Unlimited</td>
 </tr>
+ <tr>
+<td>Simplilearn</td>
+<td>Free Digital Marketing Course with Certificate</td>
+<td><a href="https://www.simplilearn.com/free-digital-marketing-basics-course-skillup" rel="nofollow">Link</a></td>
+<td>90 Days of Access</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
