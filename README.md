@@ -1,6 +1,6 @@
 # Free LinkedIn Learning Professional Certifications & Learning Path & are popular platforms with a wide range of subjects
 
-<table><tr><td><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/305/2025/03/LinkedIn-Learning-Banner-1-800x600.png"></td><td><img src="https://github.com/user-attachments/assets/e2af1d0d-a67c-4b0d-98a9-8876bce8b8d1-800x600.png"
+<table><tr><td><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/305/2025/03/LinkedIn-Learning-Banner-1-800x600.png"></td><td><img src="https://github.com/user-attachments/assets/e2af1d0d-a67c-4b0d-98a9-8876bce8b8d1-800x600"
 "></td></tr></table>
  
 
