@@ -3,10 +3,7 @@
 <table><tr><td><img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/305/2025/03/LinkedIn-Learning-Banner-1-800x600.png"></td><td><img src="https://github.com/user-attachments/assets/8beb4342-2a80-46c7-bebf-4f384ce15783" width="800" height="600"/>
  ></td></tr></table>
  
-
- ![Top-free-online-courses-with-certificate-1]( )
-
- ![](https://komarev.com/ghpvc/?username=mscbuild) 
+![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
  ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
