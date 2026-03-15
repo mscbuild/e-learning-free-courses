@@ -1254,7 +1254,8 @@ HP LIFE offers free courses on soft skills, such as business management and AI f
 > [!WARNING]
 > Some online courses may be scams or offer misleading information, so it's essential to verify the legitimacy of the course and platform. 
  
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMI6lPCXzzU9vU2fep8uvNQ40vJIk0c-vHA&s
+ Best Free Courses & Certificates [2026]
+
  
  
                     
