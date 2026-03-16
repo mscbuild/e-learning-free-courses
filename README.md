@@ -1217,6 +1217,65 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>Description</th>
+<th>Link</th>
+<th>Expiration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Certiprof</td>
+<td>Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br &amp; es. Use the code “COVID19Support”</td>
+<td><a href="https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>Six Sigma Online</td>
+<td>Free Six Sigma White Belt Training &amp; Certification.</td>
+<td><a href="https://www.sixsigmaonline.org/six-sigma-white-belt-certification/" rel="nofollow">Link</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>OHSC</td>
+<td>Free Project Management course and certificate by Oxford Home Study Centre (OHSC).</td>
+<td><a href="https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Msicertified</td>
+<td>Free Project Management Essentials Certified (PMEC) training &amp; certification.</td>
+<td><a href="https://www.msicertified.com/free-project-management-certification.html" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>6sigmastudy</td>
+<td>Free Six Sigma Yellow Belt course &amp; certification.</td>
+<td><a href="http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>ScrumStudy</td>
+<td>Free “Scrum Fundamentals Certified (SFC™)” training course &amp; certification</td>
+<td><a href="https://www.scrumstudy.com/certification/scrum-fundamentals-certified" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>SkillFront</td>
+<td>Free Certified Associate In Scrum Fundamentals™ (CASF™)</td>
+<td><a href="https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Great Learning</td>
+<td>Free Project Management course</td>
+<td><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management" rel="nofollow">Link</a></td>
+<td>Unlimited</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
 
 # Platforms offering free courses and certificates:
 - ## edX:
