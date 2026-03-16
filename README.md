@@ -1276,6 +1276,7 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+<p align="center" dir="auto"><a href="#table-of-contents">(back to top)</a></p>
 
 # Platforms offering free courses and certificates:
 - ## edX:
