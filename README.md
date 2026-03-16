@@ -1217,14 +1217,7 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
-<thead>
-<tr>
-<th>Provider</th>
-<th>Description</th>
-<th>Link</th>
-<th>Expiration</th>
-</tr>
-</thead>
+ 
 <tbody>
 <tr>
 <td>Certiprof</td>
